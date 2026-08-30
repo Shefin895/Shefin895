@@ -1,5 +1,4 @@
 ## Hi there 👋
-Im Nig
 <!--
 **Shefin895/Shefin895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
